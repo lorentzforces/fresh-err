@@ -7,6 +7,11 @@ var preambles []string = []string{
 	"Ker-blam",
 	"Womp womp",
 	"*ambulance noises*",
+	"terrible error",
+	"water u doin bud",
+	"o no",
+	"aw shucks",
+	"stop right there criminal scum",
 }
 
 func GetFresh() string {
