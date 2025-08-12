@@ -12,6 +12,14 @@ var preambles []string = []string{
 	"o no",
 	"aw shucks",
 	"stop right there criminal scum",
+	"something's fucky",
+	"biffed it",
+	"🤢",
+	"problematic uncle vibes",
+	"wrecked",
+	"accidentally the software",
+	"absolute cheeks",
+	"honestly not our best work",
 }
 
 func GetFresh() string {
